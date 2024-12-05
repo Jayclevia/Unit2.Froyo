@@ -13,10 +13,10 @@ h1 {
 }
 
 h2 {
-    background-color: #746df0;  /* Soft peach background color */
-    padding: 10px;              /* Adds padding around the text */
-    border-radius: 8px;         /* Optional: rounded corners for the background */
-    color: #ffffff;             /* Set the text color */
+    background-color: #746df0;
+    padding: 10px;
+    border-radius: 8px;
+    color: #ffffff;
 }
 
 h3 {
